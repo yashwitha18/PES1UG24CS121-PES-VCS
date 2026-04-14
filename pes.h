@@ -50,7 +50,7 @@ int hex_to_hash(const char *hex, ObjectID *id_out);
 // If unset, it defaults to "PES User <pes@localhost>".
 //
 // To set your name:
-//   export PES_AUTHOR="Alice <alice@example.com>"
+//   export PES_AUTHOR="Your Name <PESXUG24CS042>"
 
 #define DEFAULT_AUTHOR "PES User <pes@localhost>"
 

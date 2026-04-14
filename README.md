@@ -39,7 +39,7 @@ make clean    # Remove all build artifacts
 PES-VCS reads the author name from the `PES_AUTHOR` environment variable:
 
 ```bash
-export PES_AUTHOR="Your Name <your.email@example.com>"
+export PES_AUTHOR="Your Name <PESXUG24CS042>"
 ```
 
 If unset, it defaults to `"PES User <pes@localhost>"`.
